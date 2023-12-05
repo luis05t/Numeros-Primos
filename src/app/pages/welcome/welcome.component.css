@@ -1,0 +1,91 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+.item {
+    width: 150px ;
+    height: 50px;
+    margin: 15px;
+    padding: 15px;
+}
+.center{
+    text-align: center;
+}
+.item:nth-child(1) {
+    background-color: brown;
+}
+.item:nth-child(2) {
+    background-color: rgb(165, 136, 42);
+}
+.item:nth-child(3) {
+    background-color: rgb(249, 110, 4);
+}
+.item:nth-child(4) {
+    background-color: rgb(42, 165, 71);
+}
+.item:nth-child(5) {
+    background-color: rgb(42, 75, 165);
+}
+.item:nth-child(6) {
+    background-color: rgb(126, 42, 165);
+}
+.item:nth-child(7) {
+    background-color: rgb(165, 42, 124);
+}
+.item:nth-child(8) {
+    background-color: rgb(126, 165, 42);
+}
+.item:nth-child(9) {
+    background-color: rgb(42, 163, 165);
+}
+.item:nth-child(10) {
+    background-color: rgb(15, 25, 48);
+}
+.item:nth-child(11) {
+    background-color: rgb(165, 42, 126);
+}
+.item:nth-child(12) {
+    background-color: rgb(51, 2, 2);
+}
+.item:nth-child(13) {
+    background-color: rgb(104, 165, 42);
+}
+.item:nth-child(14) {
+    background-color: rgb(55, 98, 92);
+}
+.item:nth-child(15) {
+    background-color: rgb(97, 42, 165);
+}
+.item:nth-child(16) {
+    background-color: rgb(86, 104, 77);
+}
+.item:nth-child(17) {
+    background-color: rgb(153, 116, 116);
+}
+.item:nth-child(18) {
+    background-color: rgb(42, 165, 73);
+}
+.item:nth-child(19) {
+    background-color: rgb(165, 157, 42);
+}
+.item:nth-child(20) {
+    background-color: rgb(165, 101, 42);
+}
+.item:nth-child(21) {
+    background-color: rgb(60, 25, 12);
+}
+.item:nth-child(22) {
+    background-color: rgb(42, 99, 165);
+}
+.item:nth-child(23) {
+    background-color: rgb(165, 42, 132);
+}
+.item:nth-child(24) {
+    background-color: rgb(42, 165, 58);
+}
+.item:nth-child(25) {
+    background-color: rgb(42, 122, 165);
+}
